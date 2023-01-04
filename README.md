@@ -1,8 +1,19 @@
-# instagram_home_page
-#### Recriando a página inicial do Instagram | Digital innovation one - Aula Gabriela Pinheiro
+<p align="center">
+    <img src="./img/instagram-logo.png">
+</p>
 
-Projeto de uma pagina web. utilizando-se:
+-------
+### Criando a página com Tema da Série stranger things | Digital innovation one 
+<a href="https://anmorhy.github.io/instagram_home_page/">📜Acesse o Site Aqui</a>
 
-1 - HTML
+## 💻 Tecnologias
+- HTML
+- CSS
 
-2 - CSS3
+## 💬 Assuntos abordados
+- HTML
+    - Estruturação da página 
+    - Semântica
+- CSS
+    - Posicionamentos
+    - Flexbox
