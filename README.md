@@ -3,7 +3,7 @@
 </p>
 
 -------
-## Criando a página com Tema da Série stranger things | Digital innovation one 
+## Criando a página de login do Intagram | Digital innovation one 
 <a href="https://anmorhy.github.io/instagram_home_page/"> 📜Acesse o Site Aqui </a>
 
 ## 💻 Tecnologias
